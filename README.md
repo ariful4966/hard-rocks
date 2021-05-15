@@ -1,4 +1,3 @@
-# Programming Hero Course Revision
 
 ## Hard Rocks
 
